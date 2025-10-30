@@ -3,7 +3,6 @@
 A 7x7 programmable LED and button board implementing an embedded system based on a NUCLEO-L476RG microcontroller. 
 
 ![7x7 LED Game Board](https://github.com/user-attachments/assets/e1920303-fd22-4ffe-aeeb-2260c6b6d389)
-*7x7 LED Matrix with STM32 Microcontroller*
 
 Features:
 - WS2812B RGB LEDs with custom graphics
